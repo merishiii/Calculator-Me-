@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Montserrat:wght@700&family=PT+Serif:ital@1&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+font-family: 'PT Serif', serif;
+
+}
+
+.button{
+  width: 66px;
+  padding:20px;
+  margin: 0 2px;
+  border:2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+
+}
+
+.row{
+  margin: 4px 0;
+}
+
+.row input{
+  font-size: 24px;
+  margin: 0px;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 6px;
+}
